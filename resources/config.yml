@@ -1,0 +1,7 @@
+messages:
+  enabled: "§aCoordinates enabled."
+  disabled: "§cCoordinates disabled."
+  usage: "§eUsage: /xyz <on|off>"
+
+coords-format: "§7XYZ: §f{x} §7| §f{y} §7| §f{z}"
+update-interval: 20
