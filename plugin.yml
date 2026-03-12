@@ -1,0 +1,16 @@
+name: Coords
+main: Coords\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+
+commands:
+  xyz:
+    description: Toggle coordinate display
+    usage: "/xyz <on|off>"
+    aliases: [coords]
+    permission: coords.use
+
+permissions:
+  coords.use:
+    default: true
